@@ -1,4 +1,4 @@
-package projects.medium.readability;
+package nlptools;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

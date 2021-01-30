@@ -1,4 +1,4 @@
-package projects.medium.readability;
+package nlptools;
 
 import java.util.Arrays;
 import java.util.Map;

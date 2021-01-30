@@ -1,0 +1,44 @@
+#test/
+
+data_files/
+mnist/
+*.bin
+.bin
+
+target/
+out/
+# dump/
+logs/
+.hidden/
+#.todo/
+src/app/*.html
+!.mvn/wrapper/maven-wrapper.jar
+
+### misc. & OS specific ###
+desktop.ini
+gitadd-commit-push.cmd
+
+### Java
+*.class
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+#/.idea/
+.idea/*.*
+*.iws
+*.iml
+*.ipr
+!.idea/compiler.xml
+
+### GRADLE ###
+.gradle/
+gradle/
+gradlew*

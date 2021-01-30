@@ -1,13 +1,17 @@
-package projects.medium.readability;
+package nlptools;
 
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Scanner;
 
-public class Main {
+public class App {
     
     private static final Scanner scanner = new Scanner(System.in);
+    
+    public String getGreeting() {
+        return "Hello ny world!";
+    }
     
     public static void main(String[] args) throws IOException {
         
