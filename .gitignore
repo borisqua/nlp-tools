@@ -31,7 +31,7 @@ gitadd-commit-push.cmd
 .sts4-cache
 
 ### IntelliJ IDEA ###
-#/.idea/
+/.idea/
 .idea/*.*
 *.iws
 *.iml
@@ -39,6 +39,6 @@ gitadd-commit-push.cmd
 !.idea/compiler.xml
 
 ### GRADLE ###
-.gradle/
-gradle/
-gradlew*
+#.gradle/
+#gradle/
+#gradlew*
