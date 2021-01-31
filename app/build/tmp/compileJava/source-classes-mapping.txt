@@ -1,6 +1,0 @@
-nlptools/ReadabilityIndex.java
- nlptools.ReadabilityIndex
-nlptools/App.java
- nlptools.App
-nlptools/TextAnalytics.java
- nlptools.TextAnalytics
