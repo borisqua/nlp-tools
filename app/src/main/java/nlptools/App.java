@@ -15,6 +15,11 @@ public class App {
     
     public static void main(String[] args) throws IOException {
         
+        if (args.length == 0) {
+            System.out.println("Please, provide file name as a command line argument");
+            return;
+        }
+
         Path fileName = Path.of(args[0]);
         String text = new String(Files.readAllBytes(fileName));
         
