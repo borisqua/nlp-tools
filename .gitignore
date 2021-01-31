@@ -1,3 +1,6 @@
+#build files
+build/
+
 #test/
 
 data_files/
