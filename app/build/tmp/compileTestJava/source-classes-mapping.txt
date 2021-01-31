@@ -1,2 +1,0 @@
-nlptools/AppTest.java
- nlptools.AppTest
