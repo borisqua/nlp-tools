@@ -1,15 +1,16 @@
 #build files
 build/
+target/
+out/
 
 #test/
 
+#data files
 data_files/
 mnist/
 *.bin
 .bin
 
-target/
-out/
 # dump/
 logs/
 .hidden/
