@@ -43,6 +43,7 @@ gitadd-commit-push.cmd
 !.idea/compiler.xml
 
 ### GRADLE ###
-#.gradle/
+# gradle project specific cash
+.gradle/
 #gradle/
 #gradlew*
