@@ -44,6 +44,6 @@ gitadd-commit-push.cmd
 
 ### GRADLE ###
 # gradle project specific cash
-#.gradle/
+.gradle/
 #gradle/
 #gradlew*
