@@ -1,6 +1,6 @@
 # Natural language processing tools
 
-A collection of NLP instruments written in Java.
+A collection of NLP instruments, written in Java.
 
 There are a bunch of wonderful NLP java frameworks:
 - Apache OpenNLP
@@ -15,6 +15,4 @@ There are a bunch of wonderful NLP java frameworks:
 - Stanford CoreNLP
 - Lucene
 
-However, I make mine. 
-Just for fun, and to understand the matter more deeply.
-
+However, I'm assembling mine. I make it just for fun, like a demo app. And to understand the matter more deeply.
