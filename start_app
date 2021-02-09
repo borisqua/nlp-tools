@@ -1,3 +1,17 @@
 #1/usr/bin/bash
+
+if [ -z "$1" ]
+then
+	echo "Please add an argument with the name of the file."
+	echo "The file supposed to contain the text that is being analyzed for readability."
+	echo "You can use your file or the file 'in.txt' present in the project folder."
+	echo
+	echo "E.g.: "
+	echo
+	echo "./start_app in.txt"
+	echo
+	exit 0
+fi
+
 ./gradlew clean build
 java -jar app/build/libs/app.jar $1

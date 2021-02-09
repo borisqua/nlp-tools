@@ -13,8 +13,7 @@ Required JDK 14 installed.
 
 If JDK is ready, run the command line from the root application directory:
 ```bash
-sudo chmod +x start_app.sh
-./start_app.sh file.txt
+./start_app file.txt
 ```
 or in Windows command console
 ```cmd
