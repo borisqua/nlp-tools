@@ -9,10 +9,6 @@ public class App {
     
     private static final Scanner scanner = new Scanner(System.in);
     
-    public String getGreeting() {
-        return "Hello ny world!";
-    }
-    
     public static void main(String[] args) throws IOException {
         
         if (args.length == 0) {
@@ -39,6 +35,7 @@ public class App {
             boolean inputError = false;
             double indexValue;
             int[] ageRange;
+            
             switch (selection) {
                 case "ALL":
                 case "ARI":
